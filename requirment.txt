@@ -1,0 +1,6 @@
+numpy
+idx2numpy
+seaborn
+matplotlib
+sklearn
+pandas
